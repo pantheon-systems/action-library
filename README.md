@@ -27,3 +27,7 @@ Validates that the heading section of your plugin's README.md has newlines handl
 ### [PHP Compatibility](https://github.com/pantheon-systems/phpcompatibility-action)
 
 ## Actions We Love
+
+### [WordPress.org Plugin Deploy](https://github.com/10up/action-wordpress-plugin-deploy) (10up)
+
+### [WordPress.org Plugin Readme/Assets Update](https://github.com/10up/action-wordpress-plugin-asset-update) (10up)
