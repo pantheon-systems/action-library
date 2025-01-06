@@ -63,3 +63,7 @@ Pushes plugin releases to WordPress.org with SVN.
 ### [WordPress.org Plugin Readme/Assets Update](https://github.com/10up/action-wordpress-plugin-asset-update) (10up)
 
 Updates WordPress.org README without shipping a plugin update.
+
+### [Validate WordPress Plugin "Tested Up To" Version](https://github.com/jazzsequence/action-validate-plugin-version) (jazzsequence)
+
+Validates the "last tested up to" version against the current WordPress version and creates a PR with the change if the values don't match.
