@@ -34,6 +34,14 @@ Drafts a release PR from a development branch to a release branch, This action s
 
 Runs the [WP.org Code Analysis Tool](https://github.com/WordPress/wporg-code-analysis) on your plugin or theme.
 
+## Pantheon
+
+### [Terminus](https://github.com/pantheon-systems/terminus-github-actions)
+
+[![Release Version](https://img.shields.io/github/release/pantheon-systems/terminus-github-actions.svg)](https://github.com/pantheon-systems/terminus-github-actions/releases/latest)
+
+A GitHub Action for quickly installing and configuring the Pantheon CLI tool, Terminus.
+
 ## General Purpose
 
 ### [Package Updater](https://github.com/pantheon-systems/action-package-updater)
