@@ -28,12 +28,6 @@ Updates the development branch to be ready for the next release after releasing 
 
 Drafts a release PR from a development branch to a release branch, This action search and replaces the version number across all the top-level files in the repo to drop the `-dev` from the version.
 
-### [WP.org Plugin/Theme Validator](https://github.com/pantheon-systems/action-wporg-validator)
-
-[![Release Version](https://img.shields.io/github/release/pantheon-systems/action-wporg-validator.svg)](https://github.com/pantheon-systems/action-wporg-validator/releases/latest)
-
-Runs the [WP.org Code Analysis Tool](https://github.com/WordPress/wporg-code-analysis) on your plugin or theme.
-
 ## Pantheon
 
 ### [Terminus](https://github.com/pantheon-systems/terminus-github-actions)
@@ -67,6 +61,10 @@ Runs [PHPCompatibility/PHPCompatibility](https://github.com/PHPCompatibility/PHP
 ### [WordPress.org Plugin Deploy](https://github.com/10up/action-wordpress-plugin-deploy) (10up)
 
 Pushes plugin releases to WordPress.org with SVN.
+
+### [WordPress Plugin Check Action](https://github.com/wordpress/plugin-check-action)
+
+Replaces the (now deprecated) [Action WP.org Validator](https://github.com/pantheon-systems/action-wporg-validator). Runs a plugin against WordPress.org's validation standards.
 
 ### [WordPress.org Plugin Readme/Assets Update](https://github.com/10up/action-wordpress-plugin-asset-update) (10up)
 
