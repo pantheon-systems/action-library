@@ -1,0 +1,12 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: action-library
+  description: A catalog of GitHub actions.
+  annotations:
+    github.com/project-slug: pantheon-systems/action-library
+spec:
+  type: library
+  lifecycle: production
+  owner: devrel
